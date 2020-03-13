@@ -1,8 +1,3 @@
-# course
+# flutter课程表demo
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+以flutter框架开发的课程表demo。
